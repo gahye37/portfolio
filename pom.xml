@@ -195,6 +195,7 @@
 		</dependency>        
 	</dependencies>
     <build>
+    <finalName>ROOT</finalName>  <!-- 빌드될때 원하는 파일 명으로 빌드됨.  -->
         <plugins>
             <plugin>
                 <artifactId>maven-eclipse-plugin</artifactId>
