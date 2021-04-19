@@ -43,7 +43,7 @@
         <beans:property name="username" value="root"></beans:property>
         <beans:property name="password" value="Pgh561511*"></beans:property>
     </beans:bean>   
-    
+    <!-- 52.78.187.27  -->
    <beans:bean id="portfolioService" class="gahye.portfolio.pf.PortfolioServiceImpl"></beans:bean> 
 
 

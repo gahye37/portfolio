@@ -1,0 +1,16 @@
+		/* 세부 페이지  */
+		.add ul>li{list-style:none; margin-bottom:8px}
+		.add h3,h4{margin-bottom: 2px;}
+		.add table{font-size: 14px;}
+		.add ul{margin-bottom: 12px; padding-left:0px;}
+		.add p{margin-bottom: 5px;}
+		.add blockquote{margin-bottom: 10px; padding:0 10px;}
+		.add .image.left{display: inline;}
+		.add .image.left>video{width:100%; margin:0 0 20px 0;}
+		
+		
+		/* index.jsp */
+		.lang{margin-bottom: 3px; font-size: 18px;}
+		h2{margin: 10px;}
+		#skill{color:white;font-size:30px;margin-bottom: 3px;font-weight:300;}
+		
