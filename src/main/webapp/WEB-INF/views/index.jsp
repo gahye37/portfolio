@@ -21,10 +21,10 @@
 
     <!-- Wrapper -->
     <div id="wrapper">
-        <!-- Header -->
+]       <!-- Header -->
         <header id="header" class="alt">
             <span class="logo"><img src="images/logo.svg" alt="" /></span>
-            <h1>Gahye_Log</h1>
+            <h1>GaHye.log</h1>
             <p>개발자가 되고 싶은 개발자<br />
         </header>
         <!-- Nav -->
@@ -46,11 +46,16 @@
                         <header class="major">
                             <h2>About Me</h2>
                         </header>
-                        <p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
-                            adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
-                            Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
+                        <p>안녕하세요. 다시 시작하는 개발자 박가혜 입니다.</p>
+						<br>
+						<p>좀 더 효율적으로, 좀 더 최적의 방법으로 나아가기 위해 <br> 항상 고민하고 공부하고 싶습니다.</p>
+						<p>내가 작성한 코드에 대해 피드백을 받으며 더 성장하는 <br>진정한 개발자다운 개발자가 되고 싶습니다.</p>
+				 	<ul class="icons">
+						<li><a href="https://github.com/gahye37" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
+						<li><a href="https://velog.io/@gahae37" class="icon brands fa-vimeo alt"><span class="label">Velog</span></a></li>
+					</ul>
                     </div>
-                    <span class="image"><img src="images/profile.jpg" alt="" /></span>
+                    <span class="image"><img src="images/aboutme.jpg" alt="" /></span>
                 </div>
             </section>
 
@@ -82,32 +87,35 @@
                     <p>기술<br />
                 </header>
                 <ul class="statistics">
-                    <li class="style4" style="margin:5px;">
+                    <li class="style6" style="margin:5px;">
                         <span class="icon solid fa-database"></span>
-                        <h2>Back-End</h2>
+                        <h2>Back-End<br>...</h2>
                         <p class="lang">Java</p>
                         <p class="lang">Spring Framework</p>
                         <p class="lang">JSP</p>
                         <p class="lang">Weblogic</p>
                         <p class="lang">Tomcat</p>
                         <p class="lang">OracleDB</p>
+                        <p class="lang">AWS</p>
+                        <p class="lang">Docker</p>
                     </li>
-                    <li class="style1" style="margin:5px;">
+                    <li class="style7" style="margin:5px;">
                         <span class="icon solid fa-code"></span>
-                        <h2>Front-End</h2>
+                        <h2>Front-End<br>...</h2>
                         <p class="lang">javaScript</p>
                         <p class="lang">HTML</p>
                         <p class="lang">CSS</p>
                         <p class="lang">Jquery</p>
                     </li>
-                    <li class="style2" style="margin:5px;">
+                    <li class="style8" style="margin:5px;">
                         <span class="icon solid fa-cogs"></span>
-                        <h2>Tool</h2>
+                        <h2>Tool<br>...</h2>
                         <p class="lang">Eclipse</p>
                         <p class="lang">Toad</p>
                         <p class="lang">sqlDeveloper</p>
                         <p class="lang">github</p>
                         <p class="lang">SVN</p>
+                        <p class="lang">Jenkins</p>
                     </li>
                 </ul>
             </section>
@@ -118,35 +126,44 @@
                     <h2>Project</h2>
                 </header>
                 <ul class="features">
+                	<li>
+                        <span class="icon solid major style9 fa-address-card"></span>
+                        <h3>GaHye.log</h3>
+                        <p>▶ 개인포트폴리오</p>
+                        <p> AWS와 Docker를 활용한 서버 구축</p>
+                        <p> Jenkins를 이용한 빌드 자동화</p>
+                    </li>
                     <li>
-                        <span class="icon solid major style4 fa-user-friends"></span>
+                        <span class="icon solid major style6 fa-user-friends"></span>
                         <h3>대법원 가족관계등록시스템</h3>
-                        <p style="margin-bottom: 3px;">대법원 가족관계등록시스템</p>
-                        <p><a href="http://15.164.99.141/home">개발기간 2020.03.02 ~ 2020.03.31</a></p>
+                        <p>▶ 대법원 가족관계등록시스템</p>
+                        <p> Java, Spring, OracleDB 등을 이용하여 시스템 고도화</p>
                         <ul class="actions stacked">
-                            <li style="width:100%; margin:0px;">
+                            <li style="width:100%; margin:10px 0;">
                                 <a href="family" class="button small">More</a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <span class="icon solid major style3 fa-camera"></span>
+                        <span class="icon solid major style8 fa-camera"></span>
                         <h3>PicSell</h3>
-                        <p style="margin-bottom: 3px;">스톡이미지 판매 웹사이트</p>
-                        <p><a href="http://15.164.99.141/home">http://15.164.99.141/home</a></p>
+                        <p>▶ 스톡이미지 판매 웹사이트</p>
+<!--                         <p><a href="http://15.164.99.141/home">http://15.164.99.141/home</a></p> -->
+                        <p>Java, Spring, OracleDB 등을 이용한 웹사이트 개발 </p>
                         <ul class="actions stacked">
-                            <li style="width:100%; margin:0px;">
+                            <li style="width:100%; margin:10px 0;">
                                 <a href="picsell" class="button small">More</a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <span class="icon solid major style1 fa-shopping-cart"></span>
+                        <span class="icon solid major style7 fa-shopping-cart"></span>
                         <h3>Jomalone</h3>
-                        <p style="margin-bottom: 3px;">향수 쇼핑몰</p>
+                        <p>▶ 향수 쇼핑몰</p>
                         <p>개발기간 2019.11.25 ~ 2019.12.24</p>
+                        <p></p>
                         <ul class="actions stacked">
-                            <li style="width:100%; margin:0px;">
+                            <li style="width:100%; margin:10px 0;">
                                 <a href="jomalone" class="button small">More</a>
                             </li>
                         </ul>

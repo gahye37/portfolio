@@ -8,9 +8,10 @@
 		.add .image.left{display: inline;}
 		.add .image.left>video{width:100%; margin:0 0 20px 0;}
 		
+		  .features p {margin-bottom: 3px;}  
 		
 		/* index.jsp */
-		.lang{margin-bottom: 3px; font-size: 18px;}
+		.lang{margin-bottom: 3px; font-size: 18px;color:#636363}
 		h2{margin: 10px;}
 		#skill{color:white;font-size:30px;margin-bottom: 3px;font-weight:300;}
 		

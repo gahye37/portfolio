@@ -17,7 +17,6 @@
 			<dd><a href="#">gahae37@naver.com</a></dd>
 		</dl>
 	<ul class="icons">
-		<li><a href="#" class="icon brands fa-instagram alt"><span class="label">Instagram</span></a></li>
 		<li><a href="https://github.com/gahye37" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
 		<li><a href="https://velog.io/@gahae37" class="icon brands fa-vimeo alt"><span class="label">Velog</span></a></li>
 	</ul>
