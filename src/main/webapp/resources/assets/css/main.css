@@ -1,6 +1,26 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
+
+@font-face {
+    font-family: 'Independence_hall';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2102-01@1.0/Independence_hall.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'twayfly';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_tway@1.0/twayfly.woff') format('woff');
+    font-weight: light;
+    font-style: normal;
+}
+@font-face {
+     font-family: 'S-CoreDream-3Light';
+     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+}
+
 /*
 	Stellar by HTML5 UP
 	html5up.net | @ajlkn
@@ -51,6 +71,9 @@ table {
 	border-spacing: 0;
 }
 
+td{
+	font-family: 'S-CoreDream-3Light';
+}
 body {
 	-webkit-text-size-adjust: none;
 }
@@ -124,10 +147,16 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.65);
 	}
 
-	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 17pt;
-		font-weight: 300;
+	body, input, select, textarea { 
+	 font-family: 'twayfly'; 
+		  /* font-family: 'Gaegu', cursive; */ 
+		 /* font-family: 'Song Myung', serif;  */ 
+		/* font-family: 'Hi Melody', cursive;  */ 
+		/* font-family: 'Noto Serif KR', serif; */
+		/* font-family: 'Poor Story', cursive; */
+		/* font-family: 'Yeon Sung', cursive; */
+		font-size: 33pt;
+		font-weight: 50;
 		line-height: 1.65;
 	}
 
@@ -179,6 +208,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font-family: S-CoreDream-3Light;
 	}
 
 		p.content {

@@ -46,10 +46,10 @@
                         <header class="major">
                             <h2>About Me</h2>
                         </header>
-                        <p>안녕하세요. 다시 시작하는 개발자 박가혜 입니다.</p>
+                        <p>안녕하세요. 사진을 좋아하는 개발자 박가혜 입니다.</p>
 						<br>
-						<p>좀 더 효율적으로, 좀 더 최적의 방법으로 나아가기 위해 <br> 항상 고민하고 공부하고 싶습니다.</p>
-						<p>내가 작성한 코드에 대해 피드백을 받으며 더 성장하는 <br>진정한 개발자다운 개발자가 되고 싶습니다.</p>
+						<p></p>
+						
 				 	<ul class="icons">
 						<li><a href="https://github.com/gahye37" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
 						<li><a href="https://velog.io/@gahae37" class="icon brands fa-vimeo alt"><span class="label">Velog</span></a></li>
@@ -69,11 +69,11 @@
                         <h3>오티아이(주)</h3>
                         <p>대법원 가족관계등록시스템 특정증명서 발급서비스 구축 및 고도화 사업 프로젝트</p>
                         <div>
-                            <div style="float:left"><span>개발 및 유지보수<br> 2020.03 ~ 2021. 현재</span></div>
+                            <div style="float:left"><p>개발 및 유지보수<br> 2020.03 ~ 2021. 현재</p></div>
                             <div style="float:right">
-                                <span>- Java, Spring, JavaScript를 이용하여 약 150페이지의 화면 고도화 및 개발
+                                <p>- Java, Spring, JavaScript를 이용하여 약 150페이지의 화면 고도화 및 개발
                                     <br>- UML툴 활용하여 설계산출물 및 테스트 시나리오 작성
-                                    <br>- 고객의 요구사항에 따른 기능 개선 및 유지보수</span>
+                                    <br>- 고객의 요구사항에 따른 기능 개선 및 유지보수</p>
                             </div>
                         </div>
                     </div>
@@ -130,6 +130,7 @@
                         <span class="icon solid major style9 fa-address-card"></span>
                         <h3>GaHye.log</h3>
                         <p>▶ 개인포트폴리오</p>
+                        <p> Java, Spring, mysql, maven</p>
                         <p> AWS와 Docker를 활용한 서버 구축</p>
                         <p> Jenkins를 이용한 빌드 자동화</p>
                     </li>
@@ -175,7 +176,7 @@
             <section id="cta" class="main special">
                 <header class="major">
                     <h2>Guest</h2>
-                    <span> 방명록입니다.</span>
+                    <p> 방명록입니다.</p>
                 </header>
                 <form id="msgform" name="msgform" method="post">
                     <input type="hidden" name="pw" id="pw">
@@ -223,6 +224,7 @@
                                             data-toggle="modal" data-target="#delModal">X</div>
                                         <input type="hidden" id="msg_seq" name="msg_seq"
                                             value="${msglist.msg_seq}">
+                                            
                                     </li>
 
                                     <!-- delModal -->
