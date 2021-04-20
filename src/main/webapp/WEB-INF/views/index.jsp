@@ -21,7 +21,7 @@
 
     <!-- Wrapper -->
     <div id="wrapper">
-]       <!-- Header -->
+       <!-- Header -->
         <header id="header" class="alt">
             <span class="logo"><img src="images/logo.svg" alt="" /></span>
             <h1>GaHye.log</h1>
