@@ -25,7 +25,7 @@
         <header id="header" class="alt">
             <span class="logo"><img src="images/logo.svg" alt="" /></span>
             <h1>GaHye.log</h1>
-            <p>개발자가 되고 싶은 개발자<br />
+            <p>개발자가 되고 싶은 개발자<br/>
         </header>
         <!-- Nav -->
         <nav id="nav">
@@ -131,7 +131,7 @@
                         <h3>GaHye.log</h3>
                         <p>▶ 개인포트폴리오</p>
                         <p> Java, Spring, mysql, maven</p>
-                        <p> AWS와 Docker를 활용한 서버 구축</p>
+                        <p> AWS와 Docker를 활용한 리눅스서버 구축</p>
                         <p> Jenkins를 이용한 빌드 자동화</p>
                     </li>
                     <li>
@@ -139,6 +139,7 @@
                         <h3>대법원 가족관계등록시스템</h3>
                         <p>▶ 대법원 가족관계등록시스템</p>
                         <p> Java, Spring, OracleDB 등을 이용하여 시스템 고도화</p>
+                        <p> 시스템 유지보수 및 사용자 지원</p>
                         <ul class="actions stacked">
                             <li style="width:100%; margin:10px 0;">
                                 <a href="family" class="button small">More</a>
@@ -149,8 +150,9 @@
                         <span class="icon solid major style8 fa-camera"></span>
                         <h3>PicSell</h3>
                         <p>▶ 스톡이미지 판매 웹사이트</p>
-<!--                         <p><a href="http://15.164.99.141/home">http://15.164.99.141/home</a></p> -->
+                       <!-- <p><a href="http://3.34.137.48:8090/home">http://3.34.137.48:8090/home</a></p>  -->
                         <p>Java, Spring, OracleDB 등을 이용한 웹사이트 개발 </p>
+                        <p>AWS, Docker를 활용하여 서버 구축</p>
                         <ul class="actions stacked">
                             <li style="width:100%; margin:10px 0;">
                                 <a href="picsell" class="button small">More</a>
@@ -162,6 +164,7 @@
                         <h3>Jomalone</h3>
                         <p>▶ 향수 쇼핑몰</p>
                         <p>개발기간 2019.11.25 ~ 2019.12.24</p>
+                        <p>Java, JSP, OracleDB 등을 이용한 웹사이트 개발</p>
                         <p></p>
                         <ul class="actions stacked">
                             <li style="width:100%; margin:10px 0;">

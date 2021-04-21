@@ -2879,7 +2879,7 @@ input, select, textarea {
 				width: calc(50% - 2em);
 			}
 
-				.features li:nth-child(3) {
+				.features li:nth-child(3), .features li:nth-child(4) {
 					margin-top: 3em;
 				}
 
