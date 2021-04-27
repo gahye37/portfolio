@@ -43,7 +43,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	
+	}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -51,6 +53,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	/* width:100%; */
 }
 
 ol, ul {
@@ -155,7 +158,7 @@ input, select, textarea {
 		/* font-family: 'Noto Serif KR', serif; */
 		/* font-family: 'Poor Story', cursive; */
 		/* font-family: 'Yeon Sung', cursive; */
-		font-size: 33pt;
+		font-size: 12pt;
 		font-weight: 50;
 		line-height: 1.65;
 	}

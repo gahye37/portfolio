@@ -89,7 +89,7 @@
                 <ul class="statistics">
                     <li class="style6" style="margin:5px;">
                         <span class="icon solid fa-database"></span>
-                        <h2>Back-End<br>...</h2>
+                        <h3>Back-End<br>...</h3>
                         <p class="lang">Java</p>
                         <p class="lang">Spring Framework</p>
                         <p class="lang">JSP</p>
@@ -101,7 +101,7 @@
                     </li>
                     <li class="style7" style="margin:5px;">
                         <span class="icon solid fa-code"></span>
-                        <h2>Front-End<br>...</h2>
+                        <h3>Front-End<br>...</h3>
                         <p class="lang">javaScript</p>
                         <p class="lang">HTML</p>
                         <p class="lang">CSS</p>
@@ -109,7 +109,7 @@
                     </li>
                     <li class="style8" style="margin:5px;">
                         <span class="icon solid fa-cogs"></span>
-                        <h2>Tool<br>...</h2>
+                        <h3>Tool<br>...</h3>
                         <p class="lang">Eclipse</p>
                         <p class="lang">Toad</p>
                         <p class="lang">sqlDeveloper</p>
@@ -198,10 +198,10 @@
                                 <div class="modal-content">
                                     <div class="modal-header" style="height:60px;">
                                         <h5 class="modal-title" id="exampleModalLabel">비밀번호를 입력해주세요.</h5>
-                                        <button type="button" class="close" data-dismiss="modal"
+                                        <input type="button" class="close" data-dismiss="modal"
                                             aria-label="Close" style="height:60px;">
                                             <span aria-hidden="true">&times;</span>
-                                        </button>
+                                        
                                     </div>
                                     <div class="modal-body">
                                         <input type="password" id="password">
